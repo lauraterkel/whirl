@@ -1,12 +1,8 @@
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet } from "react-native";
 
 export default function Profil() {
   return (
-    <View
-      style={styles.container}
-    >
-      <Text>Hej med dig</Text>
-    </View>
+    
   );
 }
 
