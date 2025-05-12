@@ -5,7 +5,7 @@ export default function Profil() {
     <View
       style={styles.container}
     >
-      <Text>Hej med dig</Text>
+      <Text>Hej med dig, min ven</Text>
     </View>
   );
 }
